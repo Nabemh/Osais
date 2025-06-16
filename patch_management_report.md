@@ -58,3 +58,39 @@ Enhanced user trust and regulatory compliance
 
     6. Conclusion
 Patch management is not just a technical task—it’s a vital part of an organization’s security strategy. In a threat landscape where attackers move quickly to exploit vulnerabilities, timely and consistent patching is one of the most effective defenses. Organizations that fail to patch systems risk data breaches, financial penalties, and operational failures, while those with robust patch strategies enhance security, compliance, and efficiency.
+
+7. References
+National Institute of Standards and Technology (NIST)
+
+
+NIST Special Publication 800-40 Revision 3: Guide to Enterprise Patch Management Technologies
+
+
+Link: https://csrc.nist.gov/publications/detail/sp/800-40/rev-3/final
+
+
+Cybersecurity & Infrastructure Security Agency (CISA)
+
+
+CISA's Alerts on Patch Management and Vulnerability Disclosure
+
+
+Link: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+
+
+SANS Institute
+
+
+Whitepaper: Best Practices for Patch Management
+
+
+Link: https://www.sans.org/white-papers/patch-management/
+
+
+Microsoft Security Blog
+
+
+The Importance of Patch Management
+
+
+Link: https://www.microsoft.com/security/blog/
