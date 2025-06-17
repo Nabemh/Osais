@@ -32,9 +32,9 @@ a. Inventory All Assets: Maintain an up-to-date inventory of hardware and softwa
 b. Automate Where Possible: Use patch management tools (e.g., Microsoft SCCM, ManageEngine, or Balbix) to automate detection, deployment, and verification of patches. Scheduled updates are best done during off-peak hours to minimize disruptions.
 c. Test Before Deployment: Apply patches in a test environment, most likely a sandbox to ensure compatibility and avoid disrupting operations.
 d. Prioritize Patches: Assess patch severity and risk level. Use the Common Vulnerability Scoring System (CVSS) to assess risk levels, focusing on high-severity vulnerabilities first.  Example prioritization:
-Critical (CVSS 9-10): Patch within 2-7 days
-High (CVSS 7-8.9): Patch within 14 days
-Medium (CVSS 4-6.9): Patch within 30 days 11.
+- Critical (CVSS 9-10): Patch within 2-7 days
+- High (CVSS 7-8.9): Patch within 14 days
+- Medium (CVSS 4-6.9): Patch within 30 days 11.
 e. Set a Patch Schedule:  Establish a regular schedule (e.g., monthly) for reviewing and applying patches, while allowing flexibility for emergency updates.
 f. Monitor and Document: Track the patch status of systems and document patching activities for auditing and compliance.
 g. Establish a Rollback Plan: If a patch causes system failures, a rollback procedure ensures quick recovery.
@@ -57,30 +57,23 @@ Patch management is not just a technical task—it’s a vital part of an organi
 
 
 ## References
--National Institute of Standards and Technology (NIST)
-NIST Special Publication 800-40 Revision 3: Guide to Enterprise Patch Management Technologies
-Link: https://csrc.nist.gov/publications/detail/sp/800-40/rev-3/final
+- National Institute of Standards and Technology (NIST): NIST Special Publication 800-40 Revision 3: Guide to Enterprise Patch Management Technologies
+(Link: https://csrc.nist.gov/publications/detail/sp/800-40/rev-3/final)
 
-- Cybersecurity & Infrastructure Security Agency (CISA)
-CISA's Alerts on Patch Management and Vulnerability Disclosure
+- Cybersecurity & Infrastructure Security Agency (CISA): CISA's Alerts on Patch Management and Vulnerability Disclosure
 Link: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
-- Equifax Breach Report – U.S. House of Representatives, Committee on Oversight and Government Reform (2018)
-Demonstrates consequences of failure to patch.
-Link: https://archive.epic.org/privacy/data-breach/equifax/
+- Equifax Breach Report – U.S. House of Representatives, Committee on Oversight and Government Reform (2018): Demonstrates consequences of failure to patch.
+(Link: https://archive.epic.org/privacy/data-breach/equifax/)
 
-- Epoch IT  
-GDPR/HIPAA Compliance
-Link:https://epochit.com/tag/hipaa-compliance/
+- Epoch IT: GDPR/HIPAA Compliance
+(Link: https://epochit.com/tag/hipaa-compliance/)
 
-- Balbix
-Patch Management Benefits & Best Practices
-Link:https://www.balbix.com/insights/patch-management-benefits-and-best-practices/
+- Balbix: Patch Management Benefits & Best Practices
+(Link: https://www.balbix.com/insights/patch-management-benefits-and-best-practices/)
 
-- SBS Cyber 
-Patch Overload & Prioritization
-Link: https://sbscyber.com/blog/security-patch-overload
+- SBS Cyber: Patch Overload & Prioritization
+(Link: https://sbscyber.com/blog/security-patch-overload)
 
-- TuxCare  
-Rebootless Linux Patching
-Link: https://tuxcare.com/resources/learning/live-patching/
+- TuxCare: Rebootless Linux Patching
+(Link: https://tuxcare.com/resources/learning/live-patching/)
